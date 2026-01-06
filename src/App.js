@@ -151,7 +151,7 @@ export default function GlobalHorizonsUniversityApp() {
         {/* Food & weather */}
         <section className="mt-8 bg-white p-6 rounded shadow-sm">
           <h3 className="text-2xl font-bold">Food & Campus Climate</h3>
-          <p className="mt-3 text-gray-700">Dining services provide a wide range of international cuisines with special emphasis on South Asian staples: Biryani, dal, Pizza, Pasta and Chatpate Panipuri options. The local weather is mild and student-friendly designed so international students, including those from Nepal, can comfortably adapt.</p>
+          <p className="mt-3 text-gray-700">Dining services provide a wide range of international cuisines with special emphasis on South Asian staples for South Asian people: Biryani, dal, Pizza, Pasta options. The local weather is mild and student-friendly designed so international students, including those from Nepal, can comfortably adapt.</p>
         </section>
 
         {/* Careers */}
